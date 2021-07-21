@@ -2,7 +2,7 @@
   "name": "deployment_IPFS",
   "version": "0.1.0",
   "description": "test website",
-  "author": "pinajoma0@gmail.com",
+  "author": "pinajoma0@gmail.com, gregory@dappuniversity.com" ,
   "homepage": ".",
   "dependencies": {
     "babel-polyfill": "6.26.0",
